@@ -2,7 +2,7 @@
 <h4>In this assignment you will learn the basics of HTML and CSS. This will be an individual assignment and will require each one of you to submit their own file</h4>
 <h3>General instructions:</h3>
 <ol>
-	<li>Please use separate HTML and CSS files. Try to avoid using the style tag in the HTML file.</li>
+	<li>Use separate HTML and CSS files. Try to avoid using the style tag in the HTML file.</li>
 	<li>Since this is your first assignment, you are expected to make mistakes..</li>
 	<li>The deadline for the assignment is 5th April 11:59 pm.</li>
 
