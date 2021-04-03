@@ -13,8 +13,8 @@ Create a HTML page with your name as the title which includes atleast 4 sections
 	<li>About Me :- Name, Hobbies, Ambitions etc. </li>
 	<li>Gallery :- This will contain 5 images arranged in a form of pentagon as shown below.( The images can be anything, your pics, your fav anime, fav movies etc.</li>
 	<li>Form :- Add a query form with a submit button.Note that we don’t want a google form. The form should be made using HTML and CSS(no javascript). Add the fields (name, mail-id,etc.) in query form which you think are required. We do not want you to store the data. Submit button should refresh the entered fields.</li>
-	<li>Contact Me :- this will be the footer section which will include your contact details and links to social media handles.</li>
-	<li>Anything you would like to see in your page.</li>
+	<li>Contact Me :- This will be the footer section which will include your contact details and links to social media handles.</li>
+	<li>Anything else you would like to see in your page.</li>
 </ul>
 <b> The first assignment is supposed to be your playing field, try to experiment with all the different tags and properties you have learnt, since the next assignment will be continuation of this webpage don't focus too much on the result</b>
 <h3>Submissions instructions:</h3>
