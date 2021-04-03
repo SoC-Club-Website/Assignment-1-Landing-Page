@@ -11,7 +11,7 @@
 Create a HTML page with your name as the title which includes atleast 4 sections(in a single page) :-
 <ul>
 	<li>About Me :- Name, Hobbies, Ambitions etc. </li>
-	<li>Gallery :- This will contain 5 images arranged in a form of pentagon as shown below.( The images can be anything, your pics, your fav anime, fav movies etc.</li>
+	<li>Gallery :- This will contain 4 images and a video arranged like what is shown in the attached image, note that do not add anchor link as it will direct the user to youtube. We want the video to play on the website itself.( The images can be anything, your pics, your fav anime, fav movies etc.</li>
 	<li>Form :- Add a query form with a submit button.Note that we don’t want a google form. The form should be made using HTML and CSS(no javascript). Add the fields (name, mail-id,etc.) in query form which you think are required. We do not want you to store the data. Submit button should refresh the entered fields.</li>
 	<li>Contact Me :- This will be the footer section which will include your contact details and links to social media handles.</li>
 	<li>Anything else you would like to see in your page.</li>
