@@ -26,10 +26,10 @@ Create a HTML page with your name as the title which includes atleast 4 sections
 <b> The first assignment is supposed to be your playing field, try to experiment with all the different tags and properties you have learnt, since the next assignment will be continuation of this webpage don't focus too much on the result</b>
 <h3>Submissions instructions:</h3>
 <ol>
-	<li> Accept the <a href="https://classroom.github.com/a/MdCTTnJM">invitation</a> to the assignment repository
+	<li> Use this <a href="https://classroom.github.com/a/MdCTTnJM">link</a> to create the assignment repository
 	<li> Clone the repo in your machine by using command "git clone (repo link)"
 	<li> Push all changes to your copy of the assignment repo
-	<li> <b> The deadline is 11:55 PM, Friday 5 April, 2021 </b>
+	<li> <b> The deadline is 11:55 PM, Friday 6 April, 2021 </b>
 </ol>
 
 ### Note: We have not provided any boilerplate code as of now so that you can understand how each piece of HTML works, and figure out design choices for yourself. If you need boilerplate code please inform us.
