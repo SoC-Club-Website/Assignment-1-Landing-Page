@@ -14,7 +14,7 @@ Create a HTML page with your name as the title which includes atleast 4 sections
 	<li>About Me :- Name, Hobbies, Ambitions etc. </li>
 	<li>Gallery :- This will contain 4 images and a video arranged like what is shown in the image below, note that do not add anchor link as it will direct the user to youtube. We want the video to play on the website itself.( The images can be anything, your pics, your fav anime, fav movies etc. depending on your creativity) <br>
 	<br>
-	<img src='./example.jpeg' style='height:400px; width:400px'></img>
+	<img src='./example.jpeg' style='height:100px; width:100px'></img>
 	<br>
 	<br>
 	</li>
