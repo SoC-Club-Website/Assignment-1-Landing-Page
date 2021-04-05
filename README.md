@@ -29,7 +29,7 @@ Create a HTML page with your name as the title which includes atleast 4 sections
 	<li> Use this <a href="https://classroom.github.com/a/MdCTTnJM">link</a> to create the assignment repository
 	<li> Clone the repo in your machine by using command "git clone (repo link)"
 	<li> Push all changes to your copy of the assignment repo
-	<li> <b> The deadline is 11:55 PM, Friday 6 April, 2021 </b>
+	<li> <b> The deadline is 11:55 PM, 6 April, 2021 </b>
 </ol>
 
 ### Note: We have not provided any boilerplate code as of now so that you can understand how each piece of HTML works, and figure out design choices for yourself. If you need boilerplate code please inform us.
